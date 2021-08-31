@@ -18,5 +18,5 @@ cd $HOME
 if [ ! -d dirname ];then
   mkdir dirname
 fi
-cd xdd
+cd boy
 curl -L $url -O $filename
