@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/cdle/xdd/models"
+	"github.com/shuaitbw/boy/models"
 )
 
 type AccountController struct {
